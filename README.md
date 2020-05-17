@@ -4,4 +4,4 @@ One can learn most of the functions present in the pyrealsense2 module from the 
 Files included:   
 1. Depth.py  
 2. Working video of the code (Depth_Capture.mp4)   
-3. test.bag (reference video)  
+3. test_small.bag (reference video)  
