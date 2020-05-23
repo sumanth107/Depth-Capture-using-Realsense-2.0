@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#@uthor : Sumanth
+#@uthor : Sumanth Nethi
 import pyrealsense2 as rs
 import numpy as np
 import cv2 
